@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Hacker terminal banner</title>
+  <desc id="desc">A black terminal screen with neon green code-like text and decorative scan lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020604"/>
+      <stop offset="1" stop-color="#07140b"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#00ff41" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <rect x="24" y="22" width="1152" height="276" rx="12" fill="none" stroke="#00ff41" stroke-opacity=".65" stroke-width="2"/>
+  <circle cx="52" cy="47" r="6" fill="#ff5f56"/>
+  <circle cx="74" cy="47" r="6" fill="#ffbd2e"/>
+  <circle cx="96" cy="47" r="6" fill="#27c93f"/>
+  <text x="120" y="54" fill="#7bff9b" font-family="monospace" font-size="17">terminal://profile</text>
+  <text x="62" y="118" fill="#00ff41" font-family="monospace" font-size="31" font-weight="bold">&gt; SYSTEM ONLINE</text>
+  <text x="62" y="166" fill="#d4ffe0" font-family="monospace" font-size="25">WELCOME, DEVELOPER_</text>
+  <text x="62" y="211" fill="#00ff41" font-family="monospace" font-size="20">CODE  //  CREATE  //  LEARN</text>
+  <text x="62" y="256" fill="#75b985" font-family="monospace" font-size="16">[ ETHICAL HACKING • OPEN SOURCE • TECH ]</text>
+  <path d="M 830 100 L 880 150 L 830 200 M 900 100 L 950 150 L 900 200" fill="none" stroke="#00ff41" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/>
+  <rect x="1000" y="110" width="6" height="95" fill="#00ff41" opacity=".9"/>
+  <text x="1025" y="145" fill="#00ff41" font-family="monospace" font-size="18">ACCESS</text>
+  <text x="1025" y="172" fill="#00ff41" font-family="monospace" font-size="18">GRANTED</text>
+</svg>
